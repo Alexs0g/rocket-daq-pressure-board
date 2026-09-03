@@ -5,7 +5,7 @@ continued independently. A pressure sensor board for the data acquisition system
 in solid rocket motor testing.
 
 ## Contents
-- [v1 Design Overview](docs/01-board-overview.pdf) – the board I designed for the team
+- [v1 Design Overview](docs/v1-design-overview.pdf) – the board I designed for the team
 - v1 KiCad files: `hardware/v1/`
 - Requirements analysis – coming
 - v1 build and test results – coming
